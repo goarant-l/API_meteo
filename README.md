@@ -1,4 +1,7 @@
 # Mon projet
 
 ## Aperçu
-![Aperçu du projet] (assests/API_meteo_LG.gif)
+
+<p align="center">
+<img src="assets/API_meteo_LG.gif" width="600">
+</p>
